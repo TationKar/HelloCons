@@ -1,0 +1,15 @@
+/Users/tationkar/Documents/FullStack/ExamplesCS/Exam0001_HelloCons/bin/Debug/net7.0/Exam0001_HelloCons
+/Users/tationkar/Documents/FullStack/ExamplesCS/Exam0001_HelloCons/bin/Debug/net7.0/Exam0001_HelloCons.deps.json
+/Users/tationkar/Documents/FullStack/ExamplesCS/Exam0001_HelloCons/bin/Debug/net7.0/Exam0001_HelloCons.runtimeconfig.json
+/Users/tationkar/Documents/FullStack/ExamplesCS/Exam0001_HelloCons/bin/Debug/net7.0/Exam0001_HelloCons.dll
+/Users/tationkar/Documents/FullStack/ExamplesCS/Exam0001_HelloCons/bin/Debug/net7.0/Exam0001_HelloCons.pdb
+/Users/tationkar/Documents/FullStack/ExamplesCS/Exam0001_HelloCons/obj/Debug/net7.0/Exam0001_HelloCons.csproj.AssemblyReference.cache
+/Users/tationkar/Documents/FullStack/ExamplesCS/Exam0001_HelloCons/obj/Debug/net7.0/Exam0001_HelloCons.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tationkar/Documents/FullStack/ExamplesCS/Exam0001_HelloCons/obj/Debug/net7.0/Exam0001_HelloCons.AssemblyInfoInputs.cache
+/Users/tationkar/Documents/FullStack/ExamplesCS/Exam0001_HelloCons/obj/Debug/net7.0/Exam0001_HelloCons.AssemblyInfo.cs
+/Users/tationkar/Documents/FullStack/ExamplesCS/Exam0001_HelloCons/obj/Debug/net7.0/Exam0001_HelloCons.csproj.CoreCompileInputs.cache
+/Users/tationkar/Documents/FullStack/ExamplesCS/Exam0001_HelloCons/obj/Debug/net7.0/Exam0001_HelloCons.dll
+/Users/tationkar/Documents/FullStack/ExamplesCS/Exam0001_HelloCons/obj/Debug/net7.0/refint/Exam0001_HelloCons.dll
+/Users/tationkar/Documents/FullStack/ExamplesCS/Exam0001_HelloCons/obj/Debug/net7.0/Exam0001_HelloCons.pdb
+/Users/tationkar/Documents/FullStack/ExamplesCS/Exam0001_HelloCons/obj/Debug/net7.0/Exam0001_HelloCons.genruntimeconfig.cache
+/Users/tationkar/Documents/FullStack/ExamplesCS/Exam0001_HelloCons/obj/Debug/net7.0/ref/Exam0001_HelloCons.dll
